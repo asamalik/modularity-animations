@@ -1,0 +1,2 @@
+# dnf install httpd
+# systemctl start httpd
